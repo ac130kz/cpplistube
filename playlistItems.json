@@ -1,0 +1,2032 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OwdRp9Byoz2obZfP6brr3gVxKgc\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 122,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/i_6qcc17Ed9fLkht4nuruyvB4Pg\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5ERDhFRENDNzBBQzgxRDlE",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Tribal Jungle Music - Aztec Jungle",
+    "description": "Tribal jungle music about a thick jungle surrounding an ancient Aztec city. Jaguars, snakes, and other predators lurk beneath the canopy of the deep jungle. This music that I composed is called Aztec Jungle.\n\n\n🏹 If you like this tribal jungle music, you might love this playlist:\n\nWorld music | https://www.youtube.com/playlist?list=PLX5XLCxTj60lMpJB6Pm0aepayQCFbsJZj\n\n\n❤️ Join the fantasy music community by subscribing:\n\nhttps://www.youtube.com/channel/UCLLnIcQll56hJ89dDin4UcA?sub_confirmation=1\n\n\n🎵 Buy my music here :\n\niTunes : https://itunes.apple.com/album/dark-journey/id854015249\nBandcamp : http://brandonfiechter.bandcamp.com/album/dark-journey\nAmazon mp3 : http://www.amazon.com/gp/product/B00JGHNE5Q\n\n\n🎧 Listen to my music on Spotify:\n\nSpotify : https://play.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x\n\n***\n\nSong: Aztec Jungle\nAlbum: Dark Journey\nYear: 2014\nMusic Copyright © Brandon Fiechter\n\n***\n\nAmazing pictures are used with permission from Jamdeski (1st pic), Nikulina-Helena (2nd pic), JKRoots (3rd pic), Raynal Jacquemin (4th pic), Kimsol (5th pic), Zackf (6th pic), and 7leipnir (7th pic)! Here are links to their respective pages in order:\n\n1. DeviantART page: http://jamdeski.deviantart.com/ \n2. DeviantART page: http://nikulina-helena.deviantart.com/ \n3. DeviantART page: http://jkroots.deviantart.com/ \n4. DeviantART page: http://raynaljacquemin.deviantart.com/ \n5. DeviantART page: http://www.deviantart.com/art/Atlacoya-317465830\n6. DeviantART page: http://zackf.deviantart.com/ \n7. DeviantART page: http://7leipnir.deviantart.com/ \n\nGreat thumbnail is done by Charlie Bullen-Spicer. Here is a link to his deviantART page:\n\nhttp://cbs1991.deviantart.com/\n\n\n#aztecmusic #aztec #jungle #tribal #junglemusic #panpipes #tenochtitlan #civilization #monetezuma #tribe",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WbWYdDCh6GI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WbWYdDCh6GI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WbWYdDCh6GI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WbWYdDCh6GI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WbWYdDCh6GI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "WbWYdDCh6GI",
+    "videoPublishedAt": "2014-02-07T00:35:39.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BHzICtiRQ-NZH7413VI41Uli2UM\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi45MDBDNTcxQ0I3N0JCODc4",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Baraka - I'll Be There",
+    "description": "http://drumtrip.co.uk/tuneoftheday/tune-of-the-day-baraka-ill-be-there/\nClassic jungle. Was Baraka actually Jonny L?",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gxcz83OFB1g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gxcz83OFB1g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gxcz83OFB1g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gxcz83OFB1g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gxcz83OFB1g"
+    }
+   },
+   "contentDetails": {
+    "videoId": "gxcz83OFB1g",
+    "videoPublishedAt": "2013-06-20T09:44:44.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ttDnWvsUuNvlnJxCYiFkUznZF_4\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5BQTBCRDQ1RjZCMkNFNkU2",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Epic Jungle Music - Jaws of the Jaguar",
+    "description": "Buy our music here :\n\niTunes : https://itunes.apple.com/us/album/tribal-jungle/id966327216\nBandcamp : https://dbfiechter.bandcamp.com/album/tribal-jungle\nAmazon mp3 : http://www.amazon.com/gp/product/B00THRKFW0\n\n\nListen to our music on Spotify:\n\nSpotify (Derek) : https://play.spotify.com/artist/01Er12nK5rrnHx8usFPJAs\nSpotify (Brandon) : https://play.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x\n\n***\n\nEpic jungle music about a dark jungle at night inhabited by jaguars. This music is called Jaws of the Jaguar. We hope you enjoy it!\n\nFor more information about the jaguar, you can check out this site:\n\nhttp://blog.londolozi.com/2013/10/the-difference-between-leopard-and-jaguar/\n\n***\n\nThis jaguar picture is taken by Steve Wilson\n\nhttps://www.flickr.com/photos/pokerbrit/14846494975/in/photostream/\n\n\nArtwork for the Tribal Jungle CD is by Psau:\n\nhttp://en.wikipedia.org/wiki/La_Huasteca#mediaviewer/File:Tamasopo.jpg\n\n\n~ Music by Brandon & Derek Fiechter ~",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jU1Wa674dH8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jU1Wa674dH8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jU1Wa674dH8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jU1Wa674dH8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jU1Wa674dH8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "jU1Wa674dH8",
+    "videoPublishedAt": "2015-01-11T03:48:53.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wdLKC-lNoD9s82p7umFh-poSZs8\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi42OTVBODZFNjY0QzEzRUNC",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Dark Jungle Music - Prehistoric Jungle",
+    "description": "Buy our music here :\n\niTunes : https://itunes.apple.com/album/id1248973902\nBandcamp : https://dbfiechter.bandcamp.com/album/prehistoric-times\nAmazon mp3 : https://www.amazon.com/dp/B0737XC9SK\n\n\nListen to our music on Spotify:\n\nSpotify (Derek) : https://play.spotify.com/artist/01Er12nK5rrnHx8usFPJAs\nSpotify (Brandon) : https://play.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x\n\n***\n\nDark jungle music about an ancient jungle where dinosaurs roam about and where carnivorous plants thrive. This music is called Prehistoric Jungle. We hope you enjoy it!\n\n***\n\nThis great picture is done by SamVerdegaal. Feel free to check out his DeviantART page:\n\nhttp://samverdegaal.deviantart.com/art/Mesozoic-Jungle-311493096\n\n\nThe album artwork for Prehistoric Times is by Catmando.\n\nhttps://www.shutterstock.com/image-illustration/mamenchisaurus-dinosaur-foggy-day-3d-illustration-502022641?src=9l_YWys8EJqkBJy6ZJRtUw-2-60\n\n\n~ Music by Brandon & Derek Fiechter ~",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/keDB_F2yXBc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/keDB_F2yXBc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/keDB_F2yXBc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/keDB_F2yXBc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "keDB_F2yXBc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "keDB_F2yXBc",
+    "videoPublishedAt": "2016-05-30T21:39:26.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/bE6tHVHvjbs7yd2fDxy8hmguMac\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5BMDZDQTJFRDBBMEZGNjI3",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Deep Blue   The Helicopter Tune",
+    "description": "Released Dec 1993 on Moving Shadow",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LaWmjJNG9o0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LaWmjJNG9o0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LaWmjJNG9o0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LaWmjJNG9o0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "LaWmjJNG9o0",
+    "videoPublishedAt": "2012-08-12T23:25:09.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/P1iuud5G9lu0Ek3nLOw1qkrzvRI\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi45MkZFQkZDMUVCM0MzMzc4",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Tom and Jerry (4 Hero) - Scooby's Dreaming",
+    "description": "Tom and Jerry - Scooby's Dreaming\nAnother one of several quality Tom & Jerry releases on this channel. This one from mid 1993.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eKEFlMIi83I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eKEFlMIi83I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eKEFlMIi83I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "eKEFlMIi83I"
+    }
+   },
+   "contentDetails": {
+    "videoId": "eKEFlMIi83I",
+    "videoPublishedAt": "2009-09-23T22:58:41.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/C42IW-N_ItcXhNF5RR3yAmncsbk\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi40MzU1OEI0MUMxMzlDOTU3",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Tom & Jerry - Nine Lives (Mind Out Tube Mice)",
+    "description": "Tom & Jerry - Nine Lives (Mind Out Tube Mice)\nQuality 1993 Jungle track from Tom & Jerry (4 Hero,Manix etc) and taken off the same release as the excellent 'Scoobies Dreamin' track.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JLE8W0SEcko/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JLE8W0SEcko/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JLE8W0SEcko/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JLE8W0SEcko/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JLE8W0SEcko"
+    }
+   },
+   "contentDetails": {
+    "videoId": "JLE8W0SEcko",
+    "videoPublishedAt": "2010-10-23T09:43:18.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/0dnUkdhBrqTexmbewkrKXGwQFcs\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5ENTNGMDIyRDA0MDZCQTU0",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "tom & jerry - dancer",
+    "description": "tom & jerry\r\nMark Gus Dego\r\n4 Hero",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/riuegh8HHCg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/riuegh8HHCg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/riuegh8HHCg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "riuegh8HHCg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "riuegh8HHCg",
+    "videoPublishedAt": "2009-05-22T22:14:19.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/n85vVj6SuMxb0c5W-dHCZt17JGI\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi43RjlFRTAxRDI3QzcxMERD",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Tribal Jungle Music - Amazon Warriors",
+    "description": "Buy my music here :\n\niTunes : https://itunes.apple.com/us/album/tribal-jungle/id966327216\nBandcamp : https://dbfiechter.bandcamp.com/album/tribal-jungle\nAmazon mp3 : http://www.amazon.com/gp/product/B00THRKFW0\n\n\nListen to my music on Spotify:\n\nSpotify : https://play.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x\n\n***\n\nTribal jungle music about a fierce tribe of female warriors who live deep in the jungle. This music that I composed is called Amazon Warriors. I hope you enjoy it!\n\n***\n\nSong: Amazon Warriors\nAlbum: Tribal Jungle\nYear: 2015\nMusic Copyright © Brandon Fiechter\n\n***\n\nThis jungle picture is done by Geoff Gallice.\n\nhttp://commons.wikimedia.org/wiki/File:Jungle_stream_%28La_Selva_Biological_Station%29.jpg\n\n\nGreat thumbnail is done by Linsy96 on DeviantArt.\n\nhttp://linsy96.deviantart.com\n\n\nArtwork for the Tribal Jungle CD is by Psau:\n\nhttp://en.wikipedia.org/wiki/La_Huasteca#mediaviewer/File:Tamasopo.jpg",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZhArIZ5mS6o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZhArIZ5mS6o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZhArIZ5mS6o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZhArIZ5mS6o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZhArIZ5mS6o"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ZhArIZ5mS6o",
+    "videoPublishedAt": "2015-02-01T03:14:19.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/xl-iVZrFoYwp-rTFsqljH1NLbYA\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5EQzBCODlEQUVDMDVCMTIz",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "DJ Ron - Mo Musik (African Chant)",
+    "description": "DJ Ron - Mo Musik\nExcellent late 93', early 94' Jungle track from DJ Ron and by far his best released (Crackman a close 2nd). This used to get cained by Grooverider, JJ Frost, Kenny Ken and a whole heap of others back in the day. Smacks of Kool fm too!!!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sMlr4WfGZw8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sMlr4WfGZw8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sMlr4WfGZw8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sMlr4WfGZw8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "sMlr4WfGZw8",
+    "videoPublishedAt": "2010-09-16T13:44:47.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6PkSt4VKky6tjIqCafDkHytJD_M\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi4xRUI3NzU3RDMwMUNGNTk3",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Beautiful Jungle Music - Jungle Princess",
+    "description": "Buy our music here :\n\niTunes : https://itunes.apple.com/us/album/tribal-jungle/id966327216\nBandcamp : https://dbfiechter.bandcamp.com/album/tribal-jungle\nAmazon mp3 : http://www.amazon.com/gp/product/B00THRKFW0\n\n\nListen to our music on Spotify:\n\nSpotify (Derek) : https://play.spotify.com/artist/01Er12nK5rrnHx8usFPJAs\nSpotify (Brandon) : https://play.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x\n\n***\n\nBeautiful jungle music about a tribal princess who lives in a tropical rainforest that is ruled over by her father and mother. This music is called Jungle Princess. We hope you enjoy it!\n\n***\n\nThis jungle picture is taken by JastoyCagando.\n\nhttp://pixabay.com/en/river-water-celeste-jungle-501475/\n\n\nArtwork for the Tribal Jungle CD is by Psau:\n\nhttp://en.wikipedia.org/wiki/La_Huasteca#mediaviewer/File:Tamasopo.jpg\n\n\n~ Music by Brandon & Derek Fiechter ~",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lOkY2pB_dfs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lOkY2pB_dfs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lOkY2pB_dfs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/lOkY2pB_dfs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/lOkY2pB_dfs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "lOkY2pB_dfs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "lOkY2pB_dfs",
+    "videoPublishedAt": "2015-01-30T00:21:06.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wxiPB8cObPC29Me_lZ4lD1LcfZE\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5BQjlCOUUyM0E3RUQ5QkY2",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Out in da streets- Rude Bwoy Monty (JUNGLE CLASSIC)",
+    "description": "guaranteed floor filler ,classic jungle from a time when every record was fresh and exciting.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UXTV1RGN-tg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UXTV1RGN-tg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UXTV1RGN-tg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UXTV1RGN-tg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "UXTV1RGN-tg",
+    "videoPublishedAt": "2008-03-27T19:33:14.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WIDX1-hNci-WUXELsuj-3VZGa34\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi40MUE2NTdBQTc3Nzk1NDhB",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Aquarius - the dolphin tune (Photek)",
+    "description": "Photeks brilliant, ethereal oldskool jungle track from 1994. on ltj bukems good looking label (number 9 to be precise!) listen and enjoy.  jungle for life!\r\n\r\nltj bukem conrad peshay photek aquarius source direct roni size oldskool jungle drum n bass liquid funk logical progression",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UbycqZ3jrZo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UbycqZ3jrZo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UbycqZ3jrZo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UbycqZ3jrZo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "UbycqZ3jrZo",
+    "videoPublishedAt": "2007-12-01T03:46:57.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WM7-GdqyjyWth5iYVsQzaASzktE\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi43REZGNEUwRTIzMUIxRjYw",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Urban Jungle - Back in the Days (Sexy Ladys Mix)",
+    "description": "-------------------------------------------------------------------------------------------------------------\n Label: Jungle Mania   |   Catalog#: JM 05   |   Released: 1994\n-------------------------------------------------------------------------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kIMQjLuG0OY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kIMQjLuG0OY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kIMQjLuG0OY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kIMQjLuG0OY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "kIMQjLuG0OY",
+    "videoPublishedAt": "2008-12-04T15:10:15.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mCeiX28P4Vw70fehovkEE-XJ8rY\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi41RTlCNkNENzAyQjU2MTI2",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Tom & Jerry (4 Hero) - On & On",
+    "description": "Tom & Jerry - On & On\nExcellent 1994 Jungle track from Dego & Mark released on their 'Tom & Jerry' label.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Vgrgh0V3NTk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Vgrgh0V3NTk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Vgrgh0V3NTk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Vgrgh0V3NTk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Vgrgh0V3NTk",
+    "videoPublishedAt": "2010-01-17T09:41:23.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/AWDXgrsBFbTw0RDUTp3pcy6EBXU\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi4wNDIzNjVEMjZDMjg1MzI4",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "DJ Hype & Ganja Max (Feat MC Fats & DJ Daddy) - Rinse Out",
+    "description": "DJ Hype & Ganja Max (Feat MC Fats & DJ Daddy) - Rinse Out.\nQuality 1995 Jungle track from DJ Hype & Ganja Max.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GaX31WvdB-A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GaX31WvdB-A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GaX31WvdB-A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GaX31WvdB-A"
+    }
+   },
+   "contentDetails": {
+    "videoId": "GaX31WvdB-A",
+    "videoPublishedAt": "2010-03-28T00:35:39.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pvYfGjiHfbKnJT8rxGV7zm_mYJ8\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi41RkQ2Qzg4NkVEQkRBMUU5",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Tom and Jerry - Baby Dont Shout.",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tpqpNE8KavU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tpqpNE8KavU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tpqpNE8KavU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tpqpNE8KavU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "tpqpNE8KavU",
+    "videoPublishedAt": "2010-06-28T01:11:05.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/09P4ntOTUhn8BKVb_R-5IPO1sKk\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi4xNEY0Q0E1NTNBOUZFMzg0",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "General Malice - Jah Kingdom Rise",
+    "description": "Big Cat Records (BCR002)\n\n\"Come down upon earth, King Selassie I a me sheperd.\" sample by Luciano.\n\nThis video is for promotional purposes only, if you like the music - buy the record!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rb0qRVq2qkY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rb0qRVq2qkY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rb0qRVq2qkY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rb0qRVq2qkY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "rb0qRVq2qkY",
+    "videoPublishedAt": "2009-06-13T13:18:51.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/PM8Vaf3XgtF0MQMjRFKJBDsfIUs\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi4yMDg4Njg1RkQyODM1RTE5",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Tom & Jerry (4 Hero) - Laughing Like Muttley",
+    "description": "Tom & Jerry (4 Hero) - Laughing Like Muttley\nQuality 1993 Jungle track from 4 Hero under the Tom & Jerry alias.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CwkDgtxil5I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CwkDgtxil5I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CwkDgtxil5I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CwkDgtxil5I"
+    }
+   },
+   "contentDetails": {
+    "videoId": "CwkDgtxil5I",
+    "videoPublishedAt": "2011-04-05T10:36:49.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WHSOGdJVD8DfEGgqmJwMD0KTNyU\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi44NkRBNjQwQTk5MDI3NjdB",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "DJ Trace - Coffee (Bonus Beat Mix)",
+    "description": "Label: Lucky Spin Recordings \u200e- LSR 017\nFormat: Vinyl, 12\" \nCountry: UK\nReleased: 1994\nGenre: Electronic\nStyle: Drum & Bass, Jungle",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FCAbzGXApSI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FCAbzGXApSI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FCAbzGXApSI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FCAbzGXApSI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FCAbzGXApSI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FCAbzGXApSI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "FCAbzGXApSI",
+    "videoPublishedAt": "2014-06-15T20:26:05.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GY4XT7iWDv_Dwia8Jw08VjUFFZA\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi4xODRDMkI5NzFBQ0M0ODE1",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Tom & Jerry I wanna say (yeah)",
+    "description": "I wanna say (yeah) big up to xhauntx",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Rjt66nwHC38/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Rjt66nwHC38/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Rjt66nwHC38/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Rjt66nwHC38/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Rjt66nwHC38"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Rjt66nwHC38",
+    "videoPublishedAt": "2011-05-30T17:46:09.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gpZASTcVlYPrqwxbEsEoCVgqzVQ\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi4zQUM2MkNBMzdGQTY0QTM0",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Tom & Jerry - The Second Reason",
+    "description": "Banger. I do not own ANY RIGHTS to this music, if you want the song removed, contact me, please.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FAQnZZn8PbI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FAQnZZn8PbI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FAQnZZn8PbI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FAQnZZn8PbI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FAQnZZn8PbI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FAQnZZn8PbI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "FAQnZZn8PbI",
+    "videoPublishedAt": "2013-04-13T18:21:13.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2Ffrf386Jg5v8pFdZzbYmzJdyME\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi45QTUzQjI5OTg1Qjg1NURG",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Dj Hype Helter Skelter Energy `98 08.08.1998",
+    "description": "Dj Hype Helter Skelter Energy `98 Old Skool 08.08.1998",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IhvSa3AU1po/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IhvSa3AU1po/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IhvSa3AU1po/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IhvSa3AU1po"
+    }
+   },
+   "contentDetails": {
+    "videoId": "IhvSa3AU1po",
+    "videoPublishedAt": "2012-07-21T15:21:24.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rYHYygtx94H-TiiZSQJT9uvGK4M\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi43NThBNTU4NTY1RjQyNDMy",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Tom & Jerry - Say Goodbye \"Broke My Heart\"",
+    "description": "Nice jungle tune from the 4Hero legends. Notice the flanging on the Sweet Pea break. From Its All Over (Shell010) 1994",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rr360ri4roU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rr360ri4roU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rr360ri4roU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rr360ri4roU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "rr360ri4roU",
+    "videoPublishedAt": "2010-06-26T19:24:47.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/tM4wu7pcJXS51o-fDtSXVO_a6Gs\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5BNjM1REUxOTU0ODU5MzI5",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Tom & Jerry (4 Hero) - Cat Got Your Tongue",
+    "description": "Tom & Jerry - Cat Got Your Tongue.\r\nExcellent 1993 tack from Dego & Mark under their Tom & Jerry alias.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CvZvdKDiOXs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CvZvdKDiOXs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CvZvdKDiOXs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CvZvdKDiOXs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "CvZvdKDiOXs",
+    "videoPublishedAt": "2009-09-18T09:59:34.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/twG2VhK21RgBOMDBAD0ZXYe9fEU\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi43N0ZGNjU3NkExQUI2MDY3",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Dr S Gachet & Audio Maze - The Dreamer (Nookie Remix)",
+    "description": "-------------------------------------------------------------------------------------------------------------------\n Label: Urban Gorilla Recordings | Cat#: UGR002 | Released: 1995\n-------------------------------------------------------------------------------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MFzzec3gl98/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MFzzec3gl98/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MFzzec3gl98/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MFzzec3gl98"
+    }
+   },
+   "contentDetails": {
+    "videoId": "MFzzec3gl98",
+    "videoPublishedAt": "2008-08-28T07:06:56.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/m1CDz1oBHJjFsuM0hCxZPusjSWk\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5CNTgyQ0ExNjRFMkYyMTdB",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Ward 21 - Ganja Fi Legal (Benny Page Burial Instrumental Mashup)",
+    "description": "Artist: Ward 21\nTrack: Ganja Fi Legal\nLabel: \nCatalog: -\nCountry: -\nReleased: -\nGenre: Electronic\nStyle: Drum n Bass, Jungle",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Akn4uvNrQlE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Akn4uvNrQlE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Akn4uvNrQlE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Akn4uvNrQlE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Akn4uvNrQlE",
+    "videoPublishedAt": "2010-12-03T19:56:51.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oef_Fj3LIiOEcgQYDQyCwHm-Af8\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi44RTE4N0QxMEQ4RUQyQjlE",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Darkman - Dis Sound Ruff",
+    "description": "1995 jungle tune, firstly only available on the rare Ministry Of Sound AWOL Live album.\r\nThen released as a single a year later.\r\nDarkside amens",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ueV5BwqWPnc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ueV5BwqWPnc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ueV5BwqWPnc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ueV5BwqWPnc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ueV5BwqWPnc",
+    "videoPublishedAt": "2008-08-17T22:45:25.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2jama9cDt1rJGveGx-yHeNtvbz4\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5BODdEODAwQzI4RDA4MUY5",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Tom & Jerry - For The Gold Teeth (F.N.T.)",
+    "description": "Tom & Jerry - For The Gold Teeth (F.N.T.)\nQuality early 1993 track from Tom & Jerry (4 Hero, Manix, Tek 9 etc) uploaded as requested.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/y6nPaVeBd6I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/y6nPaVeBd6I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/y6nPaVeBd6I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "y6nPaVeBd6I"
+    }
+   },
+   "contentDetails": {
+    "videoId": "y6nPaVeBd6I",
+    "videoPublishedAt": "2010-07-18T13:43:40.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/19dxNSAwrk-lD26iASAqUZg8erM\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5BQzI5OUI3MDU4NTkxRjI2",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "mousetrap  ( dangerous ) oldskool D&B",
+    "description": "from about 93 produced by tom & jerry",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SE5tVHk1KpE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SE5tVHk1KpE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SE5tVHk1KpE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "SE5tVHk1KpE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "SE5tVHk1KpE",
+    "videoPublishedAt": "2010-01-24T10:35:16.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/e0SsCNE91GAEyaaFv8hzqx3ptAs\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5EMUM3MEE4MDVGMEI1NEJB",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Fire (Urban Shakedown Mix) - Prizna Feat Demolition Man",
+    "description": "Shy FX - Old Skool Jungle\nRelentless Records 2001",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Rr2R0KWSQbU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Rr2R0KWSQbU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Rr2R0KWSQbU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Rr2R0KWSQbU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Rr2R0KWSQbU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Rr2R0KWSQbU",
+    "videoPublishedAt": "2012-06-12T20:36:26.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BbcWSIdV01D8329AFyCfhACL3m0\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5GQ0Q1OTEzNUFERTc5NThE",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "DJ K - Championz",
+    "description": "Ram pa pa pam pam choon! - Big up DJ K & Buju Banton -\nNitrous Oxide Records - N2O028 -\nReleased 2001 on a nice orange vinyl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/A2TkXKWE5dU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/A2TkXKWE5dU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/A2TkXKWE5dU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "A2TkXKWE5dU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "A2TkXKWE5dU",
+    "videoPublishedAt": "2010-10-01T20:04:05.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WZDz0xbLYxc5Bwxr0VwUYZJIx68\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi4yMzhGRDJFNzQ1OUU4ODFD",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "remarc & simpleton - unity (bad boy mix) - kemet ragga jungle 1995",
+    "description": "remarc & simpleton - unity (bad boy mix).\n\nrare vip remix of this classic amen smashing ragga jungle monster from 1995. originally on the kemet label, this vip mix was only released in japan on a couple of avex trax compilations. and that's a shame, because it absolutely drops the version that was released on vinyl to the floor with one blow.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9JdTwbvmEIA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9JdTwbvmEIA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9JdTwbvmEIA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9JdTwbvmEIA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "9JdTwbvmEIA",
+    "videoPublishedAt": "2009-01-06T13:06:16.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cGSJsjOtJ-ZbDUyag5_KFQQs69g\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi44MDc0NDgwMzREQTlFNEY2",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Source Direct - Future London",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Sopb9BKsl_g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Sopb9BKsl_g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Sopb9BKsl_g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Sopb9BKsl_g"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Sopb9BKsl_g",
+    "videoPublishedAt": "2009-04-24T22:52:29.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WC2KJtXpemPjGTF0JmSy0lRQh9w\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi44NzEwMEEwRTM2NUY2NUM3",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Tom and Jerry - Who Kan Draw",
+    "description": "Oldskool jungle from 1994. Track 2 of an exceptional 4-track from the guys at Tom & Jerry...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1P9-A03QJeg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1P9-A03QJeg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1P9-A03QJeg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1P9-A03QJeg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "1P9-A03QJeg",
+    "videoPublishedAt": "2009-12-10T13:33:49.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8OhmIZ8Z2hr-7EGMemSiJx9O_Qg\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5DQ0M2QkNFQTE1QjEzNzNF",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Subnation - Scottie [Remix]",
+    "description": "Subnation \u200e-- Scottie / Somebody Always Dies\nLabel:Future Vinyl \u200e-- FUTURE 3\nFormat:Vinyl, 12\", 33 ⅓ RPM, 45 RPM, Yellow\nCountry:UK\nReleased:1993\nGenre:Electronic\nStyle:Breakbeat, Hardcore, Jungle \nhttp://www.discogs.com/Subnation-Scottie-Somebody-Always-Dies/release/84423",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-g6Bcenxy-4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-g6Bcenxy-4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-g6Bcenxy-4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-g6Bcenxy-4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-g6Bcenxy-4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "-g6Bcenxy-4",
+    "videoPublishedAt": "2013-09-04T21:41:26.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CDpM6Rhxpau7ISNm4f9MF71No-I\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi4yMEI5OUI1NTA1QzRDRUNC",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Bonny and The Highlander-Summer Breeze",
+    "description": "Bonny and The Highlander-Summer Breeze , Jungle Pirate Club Records 1993 mickey finn",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/w2U2mRBPkEU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/w2U2mRBPkEU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/w2U2mRBPkEU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "w2U2mRBPkEU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "w2U2mRBPkEU",
+    "videoPublishedAt": "2014-08-19T00:55:41.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KJYBjJpCIYDjA96h07PYOgSonXs\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5DQjc1RjA5NzQwRjIyMDQw",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "DJ Hype - Computerised Cops (Pascal Remix)",
+    "description": "DJ Hype - Computerised Cops (Pascal Remix).\n1994 Jungle remix from Pascal of the Ganja Cru. The original in my opinion is just as good. Great remix!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qkc-3NoAKWU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qkc-3NoAKWU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qkc-3NoAKWU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qkc-3NoAKWU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "qkc-3NoAKWU",
+    "videoPublishedAt": "2009-09-30T00:53:56.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/c7zHn5gND5qhbYGfi617q_0BNjk\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5BNDJFQ0NDMDc2ODA0RDAx",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Dj nut nut & Pure science - The rumble (boom shaka mix)",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DCrjX1g2sJc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DCrjX1g2sJc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DCrjX1g2sJc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DCrjX1g2sJc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DCrjX1g2sJc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "DCrjX1g2sJc",
+    "videoPublishedAt": "2010-05-14T00:03:51.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/nzUp0_CAp0EpwIEdLFsueHiH5jw\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi4yMzNDQkNEMjA3NEQ1NTBE",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Original Dun Dunna Intro",
+    "description": "Provided to YouTube by The Orchard Enterprises\n\nOriginal Dun Dunna Intro · The Original Dun Dunna · General Malice\n\nThe Final Takeover\n\n℗ 2006 N2O Records\n\nReleased on: 2006-11-09\n\nAuto-generated by YouTube.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1JswzKAVUX8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1JswzKAVUX8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1JswzKAVUX8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1JswzKAVUX8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1JswzKAVUX8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1JswzKAVUX8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "1JswzKAVUX8",
+    "videoPublishedAt": "2014-11-09T06:02:07.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GW25fjx7-71DgZlLlUP3haHGLLM\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi4wMjZBODUwRDQ3QjI1OUY5",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Junior Dan - Heartless",
+    "description": "Jungle 94",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZuHhzk9brKI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZuHhzk9brKI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZuHhzk9brKI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZuHhzk9brKI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ZuHhzk9brKI",
+    "videoPublishedAt": "2009-04-09T23:11:47.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qmItCTluQqyxwXaZrn35jRxOb2Y\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi4yNDdCOENGOTc3QjNCQ0I0",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "DJ SS (Rhythm For Reasons) - The Love Statement",
+    "description": "DJ SS (Rhythm For Reasons) - The Love Statement.\nQuality 1994 Jungle track from DJ SS and the flipside to the 'Sweet Memories' track I'll be putting up soon. I'm guessing this track would have been up somewhere else and culled off.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/R138oQu1NpA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/R138oQu1NpA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/R138oQu1NpA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "R138oQu1NpA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "R138oQu1NpA",
+    "videoPublishedAt": "2009-11-08T11:31:52.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/quU6McFXt9hTOy5cnsmdbQAdUmE\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi44MDY5QTI2MzlGRjJBMzU0",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "General Malice - Kill Em All",
+    "description": "Final Takeover LP - A must have for all Junglists -\r\nLabel: Nitrous Oxide Records -\r\nReleased: 2006",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LBXV8oE2meo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LBXV8oE2meo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LBXV8oE2meo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LBXV8oE2meo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "LBXV8oE2meo",
+    "videoPublishedAt": "2009-04-04T17:51:18.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OwNMg07vLMvCkpSCwowBRG1zFkg\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5EQzc4OTEzQzVCQjVBMzQ2",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Bay B Kane - Paradise (Bay B Kane & Ash remix)",
+    "description": "Bay B Kane - Paradise (Bay B Kane & Ash remix).\r\n1994 Jungle track by Bay B Kane. Flip side to 'Bagpipes In Effect'.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oti1-8Tp3-Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oti1-8Tp3-Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oti1-8Tp3-Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oti1-8Tp3-Y"
+    }
+   },
+   "contentDetails": {
+    "videoId": "oti1-8Tp3-Y",
+    "videoPublishedAt": "2009-06-04T13:09:10.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/L0HkAk5Z-ZFmehLnGeS2yWEUVpI\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5FRDU2MkQ3NkU0QjA1NjIw",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Ratty Bells Of Dawn",
+    "description": "a taste of things to come  DJ Ratty formation records",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ej_pssJ72PE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ej_pssJ72PE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ej_pssJ72PE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ej_pssJ72PE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ej_pssJ72PE",
+    "videoPublishedAt": "2009-07-08T17:23:51.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_CBL60XV8viSsTJ9vB2vXVlzqS4\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi42QjVENTc4MjQ2REYxMEQy",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Rude And Deadly vs Da Dogz - Murder De Boy",
+    "description": "----------------------------------------------------------------------------------------------------------------------\n|  Label: No Smoking Records  |  Cat# SMOKE 7  |  Released: 1995  |\n----------------------------------------------------------------------------------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vpCceB_nL-U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vpCceB_nL-U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vpCceB_nL-U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vpCceB_nL-U"
+    }
+   },
+   "contentDetails": {
+    "videoId": "vpCceB_nL-U",
+    "videoPublishedAt": "2008-12-08T12:30:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4Sp_6Nt0zeOZxH2Vgo3PhaPlTRU\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi44NjI5RUY3QzM5MkVBNjM1",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "DJ Tactix - The Way (Shadow VIP Mix)",
+    "description": "Check out my other vids",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/exvaP-DJh9U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/exvaP-DJh9U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/exvaP-DJh9U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/exvaP-DJh9U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/exvaP-DJh9U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "exvaP-DJh9U"
+    }
+   },
+   "contentDetails": {
+    "videoId": "exvaP-DJh9U",
+    "videoPublishedAt": "2011-01-08T14:09:50.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jt0Rd8U5zYtyl40mniTWMeoiL98\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5FRTY2MjNBRDI3OTA0MDE4",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Wishing On A Star - Urban Gorilla - Green Label B1",
+    "description": "Wishing On A Star - Urban Gorilla - Green Label B1 Unknown Remix\nThis posted video is purely for Discogs attribute.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ajzG95cG6ag/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ajzG95cG6ag/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ajzG95cG6ag/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ajzG95cG6ag/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ajzG95cG6ag"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ajzG95cG6ag",
+    "videoPublishedAt": "2012-02-11T02:40:19.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Uhte3Oj6h_lUHZPzpe2VHtCNiMo\"",
+   "id": "UExxVjZ0eGl5Sl9YLU5yMUZwSmNsYk4zTHRid1lPbVY4Yi5CN0I1NEY2M0YzRkJGREEy",
+   "snippet": {
+    "publishedAt": "2019-05-02T17:44:09.000Z",
+    "channelId": "UC0YGf59HhVwEiUxLfcCJlbg",
+    "title": "Gang Related and Mask - Tear It Up",
+    "description": "Roni Size and Krust - 1996 - DDRAG011",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YPfab8wanJk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YPfab8wanJk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YPfab8wanJk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YPfab8wanJk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Oldschool Jungle - Topic",
+    "playlistId": "PLqV6txiyJ_X-Nr1FpJclbN3LtbwYOmV8b",
+    "position": 49,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YPfab8wanJk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "YPfab8wanJk",
+    "videoPublishedAt": "2012-06-14T22:00:48.000Z"
+   }
+  }
+ ]
+}
