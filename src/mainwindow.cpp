@@ -6,11 +6,15 @@ MainWindow::MainWindow(QWidget* parent)
     , ui(new Ui::MainWindow)
     , manager(new QNetworkAccessManager(this))
     , reply(nullptr)
-    , api_key("")
     , playlist_id("")
 
 {
+    QSettings settings(QString("config.ini"), QSettings::IniFormat);
+    api_key = settings.value("API_KEY").toString();
+
     ui->setupUi(this);
+    ui->lineEditApi->setText(api_key);
+    ui->tableWidget->horizontalHeader()->setStretchLastSection(true);
 }
 
 MainWindow::~MainWindow()
@@ -23,6 +27,7 @@ void MainWindow::on_actionClear_triggered()
 {
     ui->tableWidget->clearContents();
     ui->tableWidget->setRowCount(0);
+    ui->tableWidget->disconnect(ui->tableWidget, &QTableWidget::cellDoubleClicked, this, nullptr);
 }
 
 void MainWindow::on_actionQuit_triggered()
@@ -49,6 +54,13 @@ void MainWindow::on_actionSave_as_triggered()
     file.close();
 }
 
+void MainWindow::on_actionHelp_triggered()
+{
+    QMessageBox::about(
+        this, "Help",
+        tr("<p>Paste your Youtube v3 API key and playlist id in the provided<br>inputs, you can also specify your API key via config.ini. Enjoy!</p>"));
+}
+
 void MainWindow::on_actionAbout_triggered()
 {
     QMessageBox::about(
@@ -63,7 +75,7 @@ void MainWindow::on_actionAbout_Qt_triggered()
 
 ///////////////////////////////////////////////////////////////////////////////
 
-// TODO: this is a simple hadle for a spinning animation
+// TODO: a simple hadle for a spinning animation
 void MainWindow::on_pushButton_clicked()
 {
     if (ui->lineEditPlaylist->text().isEmpty() || ui->lineEditApi->text().isEmpty()) {
@@ -97,7 +109,6 @@ void MainWindow::on_pushButton_clicked()
     // in NumPressed
     // QPushButton* button = (QPushButton*) sender();
 
-    // https://stackoverflow.com/a/26958738/6229350
     // ajaxload.info/
     // QLabel *lbl = new QLabel;
     // QMovie *movie = new QMovie("G:/loader.gif");
@@ -114,7 +125,6 @@ void MainWindow::on_pushButton_clicked()
 }
 
 // TODO: while 'pageToken'
-// TODO: double click follow link https://www.youtube.com/watch?v={videoId}&list={playlistId}&index={position}
 // TODO: thumbnail
 void MainWindow::handleReply()
 {
@@ -138,21 +148,22 @@ void MainWindow::handleReply()
 
         QJsonObject jsonobjpageinfo = jsonobj["pageInfo"].toObject();
         auto totalResults = "Successfully loaded " + QString::number(jsonobjpageinfo["totalResults"].toInt()) + " results";
-        this->statusBar()->showMessage(tr(totalResults.toLatin1().data()), 3000);
+        this->statusBar()->showMessage(tr(totalResults.toLatin1().data()));
 
         QJsonArray array = jsonobj["items"].toArray();
         ui->tableWidget->clearContents();
         ui->tableWidget->setRowCount(array.size());
         ui->tableWidget->setColumnCount(8);
         for (int i = 0; i < array.size(); ++i) {
-            auto item = array[i].toObject();
-            auto snippet = item["snippet"].toObject();
-            auto contentDetails = item["contentDetails"].toObject();
+            const auto item = array[i].toObject();
+            const auto snippet = item["snippet"].toObject();
+            const auto contentDetails = item["contentDetails"].toObject();
 
+            // QImage *img = new QImage();
             // QTableWidgetItem* thumbnail = new QTableWidgetItem;
             // thumbnail->setData(Qt::DecorationRole, QPixmap::fromImage(*img));
 
-            qDebug() << snippet["position"].toInt() << " " << snippet["title"].toString();
+            //qDebug() << snippet["position"].toInt() << " " << snippet["title"].toString();
             ui->tableWidget->setItem(i, 0, new QTableWidgetItem(QString::number(snippet["position"].toInt())));
             ui->tableWidget->setItem(i, 1, new QTableWidgetItem(snippet["thumbnail"].toString()));
             ui->tableWidget->setItem(i, 2, new QTableWidgetItem(snippet["title"].toString()));
@@ -162,6 +173,17 @@ void MainWindow::handleReply()
             ui->tableWidget->setItem(i, 6, new QTableWidgetItem(snippet["description"].toString()));
             ui->tableWidget->setItem(i, 7, new QTableWidgetItem(contentDetails["videoPublishedAt"].toString()));
         }
+
+        connect(ui->tableWidget, &QTableWidget::cellDoubleClicked, this,
+            [&](int row, int col) {
+                // thumbnail column
+                if (col == 1) {
+                    QDesktopServices::openUrl(QUrl("https://www.youtube.com/watch?v=" + ui->tableWidget->item(row, 5)->text()
+                        + "&list=" + playlist_id
+                        + "&index=" + ui->tableWidget->item(row, 0)->text()));
+                    qDebug() << row << " " << col << " " << ui->tableWidget->item(row, col)->text();
+                }
+            });
     }
     reply->deleteLater();
     reply = nullptr;

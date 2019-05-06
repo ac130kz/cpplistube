@@ -1,5 +1,6 @@
 #pragma once
 
+#include <QDesktopServices>
 #include <QFile>
 #include <QFileDialog>
 #include <QJsonArray>
@@ -11,6 +12,7 @@
 #include <QNetworkAccessManager>
 #include <QNetworkReply>
 #include <QNetworkRequest>
+#include <QSettings>
 #include <QSsl>
 #include <QSslConfiguration>
 #include <QSslError>
@@ -34,9 +36,9 @@ private slots:
     void on_actionAbout_triggered();
     void on_actionAbout_Qt_triggered();
     void on_pushButton_clicked();
-    void handleReply();
-
     void on_actionClear_triggered();
+    void on_actionHelp_triggered();
+    void handleReply();
 
 private:
     Ui::MainWindow* ui;
