@@ -1,10 +1,14 @@
-cmake_minimum_required(VERSION 3.9 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.11 FATAL_ERROR)
 project(cpplistube LANGUAGES CXX)
 
+####################################################################################
 # building release by default
 if(NOT CMAKE_BUILD_TYPE)
     set(CMAKE_BUILD_TYPE "ReleaseNative")
 endif()
+
+# build types
+#set_property(CACHE CMAKE_BUILD_TYPE PROPERTY STRINGS "Debug" "Release" "ReleaseNative")
 
 ####################################################################################
 # qt setup magic
@@ -14,17 +18,14 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-
-####################################################################################
-# build types
-set(CMAKE_CONFIGURATION_TYPES "Debug;Release;ReleaseNative" CACHE STRING "Configurations avaliable" FORCE)
+set(CMAKE_INTERPROCEDURAL_OPTIMIZATION TRUE)
 
 ####################################################################################
 # compiler detection, flag assignment
 
 ## gcc/clang (is -stdlib=libc++ better for clang?)
 message(STATUS "Using ${CMAKE_CXX_COMPILER_ID}")
-if ("${CMAKE_CXX_COMPILER_ID}" STREQUAL "Clang|AppleClang|GNU")
+if ("${CMAKE_CXX_COMPILER_ID}" STREQUAL "Clang" OR "${CMAKE_CXX_COMPILER_ID}" STREQUAL "AppleClang" OR "${CMAKE_CXX_COMPILER_ID}" STREQUAL "GNU")
     set(CMAKE_CXX_FLAGS ${CMAKE_CXX_FLAGS} "-std=c++17 -Wextra -Wall")
     if ("${CMAKE_BUILD_TYPE}" MATCHES "^Release")
         set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -flto -fomit-frame-pointer -O3 -s")
