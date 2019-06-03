@@ -2,7 +2,9 @@ cmake_minimum_required(VERSION 3.9 FATAL_ERROR)
 project(cpplistube LANGUAGES CXX)
 
 # building release by default
-set(default_build_type "ReleaseNative")
+if(NOT CMAKE_BUILD_TYPE)
+    set(CMAKE_BUILD_TYPE "ReleaseNative")
+endif()
 
 ####################################################################################
 # qt setup magic
