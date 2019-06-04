@@ -5,16 +5,30 @@ MainWindow::MainWindow(QWidget* parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
     , manager(new QNetworkAccessManager(this))
-    , reply(nullptr)
     , playlist_id("")
 
 {
+    // using ini file
     QSettings settings(QString("config.ini"), QSettings::IniFormat);
     api_key = settings.value("API_KEY").toString();
 
+    // ui setup
     ui->setupUi(this);
     ui->lineEditApi->setText(api_key);
     ui->tableWidget->horizontalHeader()->setStretchLastSection(true);
+
+    // handling network and table slots
+    connect(manager, &QNetworkAccessManager::finished, this, &MainWindow::handleReply);
+    connect(ui->tableWidget, &QTableWidget::cellDoubleClicked, this,
+        [&](int row, int col) {
+            // thumbnail column
+            if (col == 1) {
+                QDesktopServices::openUrl(QUrl("https://www.youtube.com/watch?v=" + ui->tableWidget->item(row, 5)->text()
+                    + "&list=" + playlist_id
+                    + "&index=" + ui->tableWidget->item(row, 0)->text()));
+                //qDebug() << row << " " << col << " " << ui->tableWidget->item(row, col)->text();
+            }
+        });
 }
 
 MainWindow::~MainWindow()
@@ -27,7 +41,6 @@ void MainWindow::on_actionClear_triggered()
 {
     ui->tableWidget->clearContents();
     ui->tableWidget->setRowCount(0);
-    ui->tableWidget->disconnect(ui->tableWidget, &QTableWidget::cellDoubleClicked, this, nullptr);
 }
 
 void MainWindow::on_actionQuit_triggered()
@@ -82,26 +95,19 @@ void MainWindow::on_pushButton_clicked()
         QMessageBox::warning(this, "Error", "Empty playlist id or API key");
         return;
     }
+    ui->tableWidget->clearContents();
+    ui->tableWidget->setRowCount(0);
     playlist_id = ui->lineEditPlaylist->text();
     api_key = ui->lineEditApi->text();
 
     QUrl url("https://www.googleapis.com/youtube/v3/playlistItems?playlistId=" + playlist_id + "&part=snippet,contentDetails&key=" + api_key + "&maxResults=50");
     QNetworkRequest request(url);
-
-    // TODO: already handled automatically?
-    // if (setttings->useHttps) {
-    //    QSslConfiguration config = request.sslConfiguration();
-    //    config.setPeerVerifyMode(QSslSocket::VerifyNone);
-    //    config.setProtocol(QSsl::SecureProtocols);
-    //    request.setSslConfiguration(config);
-    // }
     request.setHeader(QNetworkRequest::ContentTypeHeader,
         "application/x-www-form-urlencoded");
     request.setRawHeader("Connection", "keep-alive");
+    manager->get(request);
 
-    reply = manager->get(request);
-    connect(reply, &QNetworkReply::finished, this,
-        &MainWindow::handleReply);
+    this->statusBar()->showMessage(tr("Loading..."));
 
     // Animation
     // connect(widget, SIGNAL(released()), this, SLOT(NumPressed());
@@ -124,13 +130,10 @@ void MainWindow::on_pushButton_clicked()
     // the movie."
 }
 
-// TODO: while 'pageToken'
 // TODO: thumbnail
-void MainWindow::handleReply()
+void MainWindow::handleReply(QNetworkReply* reply)
 {
-    if (!reply) {
-        return;
-    } else if (reply->error() != QNetworkReply::NoError) {
+    if (reply->error()) {
         QMessageBox::warning(this, "Error", reply->errorString());
     } else {
         auto data = reply->readAll();
@@ -146,13 +149,9 @@ void MainWindow::handleReply()
         qDebug() << reply->attribute(QNetworkRequest::HttpStatusCodeAttribute)
                         .toString();
 
-        QJsonObject jsonobjpageinfo = jsonobj["pageInfo"].toObject();
-        auto totalResults = "Successfully loaded " + QString::number(jsonobjpageinfo["totalResults"].toInt()) + " results";
-        this->statusBar()->showMessage(tr(totalResults.toLatin1().data()));
-
         QJsonArray array = jsonobj["items"].toArray();
-        ui->tableWidget->clearContents();
-        ui->tableWidget->setRowCount(array.size());
+        auto prevRows = ui->tableWidget->rowCount();
+        ui->tableWidget->setRowCount(prevRows + array.size());
         ui->tableWidget->setColumnCount(8);
         for (int i = 0; i < array.size(); ++i) {
             const auto item = array[i].toObject();
@@ -164,27 +163,30 @@ void MainWindow::handleReply()
             // thumbnail->setData(Qt::DecorationRole, QPixmap::fromImage(*img));
 
             //qDebug() << snippet["position"].toInt() << " " << snippet["title"].toString();
-            ui->tableWidget->setItem(i, 0, new QTableWidgetItem(QString::number(snippet["position"].toInt())));
-            ui->tableWidget->setItem(i, 1, new QTableWidgetItem(snippet["thumbnail"].toString()));
-            ui->tableWidget->setItem(i, 2, new QTableWidgetItem(snippet["title"].toString()));
-            ui->tableWidget->setItem(i, 3, new QTableWidgetItem(snippet["channelTitle"].toString()));
-            ui->tableWidget->setItem(i, 4, new QTableWidgetItem(snippet["channelId"].toString()));
-            ui->tableWidget->setItem(i, 5, new QTableWidgetItem(contentDetails["videoId"].toString()));
-            ui->tableWidget->setItem(i, 6, new QTableWidgetItem(snippet["description"].toString()));
-            ui->tableWidget->setItem(i, 7, new QTableWidgetItem(contentDetails["videoPublishedAt"].toString()));
+            ui->tableWidget->setItem(prevRows, 0, new QTableWidgetItem(QString::number(snippet["position"].toInt())));
+            ui->tableWidget->setItem(prevRows, 1, new QTableWidgetItem(snippet["thumbnail"].toString()));
+            ui->tableWidget->setItem(prevRows, 2, new QTableWidgetItem(snippet["title"].toString()));
+            ui->tableWidget->setItem(prevRows, 3, new QTableWidgetItem(snippet["channelTitle"].toString()));
+            ui->tableWidget->setItem(prevRows, 4, new QTableWidgetItem(snippet["channelId"].toString()));
+            ui->tableWidget->setItem(prevRows, 5, new QTableWidgetItem(contentDetails["videoId"].toString()));
+            ui->tableWidget->setItem(prevRows, 6, new QTableWidgetItem(snippet["description"].toString()));
+            ui->tableWidget->setItem(prevRows++, 7, new QTableWidgetItem(contentDetails["videoPublishedAt"].toString()));
         }
 
-        connect(ui->tableWidget, &QTableWidget::cellDoubleClicked, this,
-            [&](int row, int col) {
-                // thumbnail column
-                if (col == 1) {
-                    QDesktopServices::openUrl(QUrl("https://www.youtube.com/watch?v=" + ui->tableWidget->item(row, 5)->text()
-                        + "&list=" + playlist_id
-                        + "&index=" + ui->tableWidget->item(row, 0)->text()));
-                    qDebug() << row << " " << col << " " << ui->tableWidget->item(row, col)->text();
-                }
-            });
+        // continue loading using the nextPageToken
+        const auto nextPageToken = jsonobj["nextPageToken"].toString();
+        if (!nextPageToken.isEmpty()) {
+            QUrl url("https://www.googleapis.com/youtube/v3/playlistItems?playlistId=" + playlist_id + "&part=snippet,contentDetails&key=" + api_key + "&maxResults=50&pageToken=" + nextPageToken);
+            QNetworkRequest request(url);
+            request.setHeader(QNetworkRequest::ContentTypeHeader,
+                "application/x-www-form-urlencoded");
+            request.setRawHeader("Connection", "keep-alive");
+            manager->get(request);
+        } else {
+            QJsonObject jsonobjpageinfo = jsonobj["pageInfo"].toObject();
+            auto totalResults = "Successfully loaded " + QString::number(jsonobjpageinfo["totalResults"].toInt()) + " results";
+            this->statusBar()->showMessage(tr(totalResults.toLatin1().data()));
+        }
     }
     reply->deleteLater();
-    reply = nullptr;
 }

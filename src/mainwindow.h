@@ -38,12 +38,11 @@ private slots:
     void on_pushButton_clicked();
     void on_actionClear_triggered();
     void on_actionHelp_triggered();
-    void handleReply();
+    void handleReply(QNetworkReply* reply);
 
 private:
     Ui::MainWindow* ui;
     QNetworkAccessManager* manager;
-    QNetworkReply* reply;
     QString api_key;
     QString playlist_id;
 };
