@@ -150,7 +150,7 @@ void MainWindow::handleReply(QNetworkReply* reply)
                         .toString();
 
         QJsonArray array = jsonobj["items"].toArray();
-        auto prevRows = ui->tableWidget->rowCount();
+        int prevRows = ui->tableWidget->rowCount();
         ui->tableWidget->setRowCount(prevRows + array.size());
         ui->tableWidget->setColumnCount(8);
         for (int i = 0; i < array.size(); ++i) {
